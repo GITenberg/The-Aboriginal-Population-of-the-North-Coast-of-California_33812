@@ -1,0 +1,33 @@
+_repo: The-Aboriginal-Population-of-the-North-Coast-of-California_33812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Sherburne Friend
+    aliases:
+    - Cook, S. F. (Sherburne Friend)
+    - Cook, Sherburne F.
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '36639'
+    url: http://www.gutenberg.org/2009/agents/36639
+    wikipedia: http://en.wikipedia.org/wiki/Sherburne_F._Cook
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33812'
+  lccn: a56009822
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Records, Vol. 16, No. 3
+subjects:
+- !lcsh 'Indians of North America -- California'
+- !lcsh 'Indians of North America -- Statistics'
+- !lcc 'E011'
+title: The Aboriginal Population of the North Coast of California
+url: http://www.gutenberg.org/ebooks/33812
